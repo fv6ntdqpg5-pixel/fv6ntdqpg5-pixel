@@ -43,6 +43,17 @@ A live news aggregator that ranks stories by how many outlets cover them, not by
 | [Earth Desk](https://the-ledger-of-the-earth.vercel.app) | Resource reserves on a live globe | private |
 | [Overhead Now](https://overhead-now.vercel.app) | Every active satellite overhead, live | [public](https://github.com/fv6ntdqpg5-pixel/overhead-now) |
 
+### Science explainers
+
+Interactive pages that answer common questions with physics anyone can check.
+
+- **[Sea Level to Space](https://sea-level-to-space.vercel.app)**: a tour of the atmosphere from the ground to orbit.
+  Drag a marker upward and watch the air thin, the gases change and gravity ease off. The readings follow the
+  U.S. Standard Atmosphere and Newton's law of gravity.
+- **[What's in the Trail?](https://whats-in-the-trail.vercel.app)**: why one jet draws a line across the sky and the
+  next leaves nothing. It also counts what spraying from airliners would really take, in gallons, trucks, mines and
+  people, and shows which programs really do put material in the air. Every number can be changed or checked.
+
 The Wire & Ledger and two of the desks are private repositories (© 2026 Randy Barnhill, proprietary). Happy to walk
 through the architecture and the code on request.
 
